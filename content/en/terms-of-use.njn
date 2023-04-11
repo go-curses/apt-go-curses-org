@@ -1,7 +1,7 @@
 {{{
   "type": "page",
   "title": "Terms of Use",
-  "description": "The Go-Enjin apt repository terms of use page"
+  "description": "The Go-Curses apt repository terms of use page"
 }}}
 [
 
@@ -31,14 +31,14 @@
                 {
                     "type": "p",
                     "text": [
-                        "This website is a demonstration of the Go-Enjin project and the Starter Apt Enjin in ",
-                        "particular. As such, there really aren't any real terms or conditions, other than the ",
+                        "This website is the Go-Curses project apt repository. ",
+                        "There aren't any real terms or conditions, other than the ",
                          {
                             "type": "footnote",
-                            "text": "Go-Enjin license",
+                            "text": "Go-Curses license",
                             "note": [
                                 "see the ",
-                                {"type": "a", "href": "/license", "text": "Go-Enjin license"},
+                                {"type": "a", "href": "/license", "text": "Go-Curses license"},
                                 " page for more details."
                             ]
                          },
@@ -48,7 +48,7 @@
                 {
                     "type": "p",
                     "text": [
-                        "-- The Go-Enjin apt repository team"
+                        "-- The Go-Curses apt repository team"
                     ]
                 }
             ]

@@ -1,7 +1,7 @@
 {{{
   "type": "page",
   "title": "Contact Us",
-  "description": "How to contact the Go-Enjin apt repository maintainers"
+  "description": "How to contact the Go-Curses apt repository maintainers"
 }}}
 [
 
@@ -34,8 +34,8 @@
                         "To contact us, please use the ",
                         {
                             "type": "a",
-                            "href": "mailto:go.enjin.org+apt@gmail.com",
-                            "text": "go.enjin.org+apt@gmail.com"
+                            "href": "mailto:go.enjin.org+curses@gmail.com",
+                            "text": "go.enjin.org+curses@gmail.com"
                         },
                         " address."
                     ]
@@ -43,7 +43,7 @@
                 {
                     "type": "p",
                     "text": [
-                        "-- The Go-Enjin team"
+                        "-- The Go-Curses team"
                     ]
                 }
             ]

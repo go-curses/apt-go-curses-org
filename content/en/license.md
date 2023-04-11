@@ -1,4 +1,4 @@
-# Go-Enjin License
+# Go-Curses License
 
 ```
                                  Apache License

@@ -1,7 +1,7 @@
 {{{
   "type": "page",
   "title": "Privacy Policy",
-  "description": "The Go-Enjin apt repository privacy policy page"
+  "description": "The Go-Curses apt repository privacy policy page"
 }}}
 [
 
@@ -38,7 +38,7 @@
                 {
                     "type": "p",
                     "text": [
-                        "-- The Go-Enjin apt repository team"
+                        "-- The Go-Curses apt repository team"
                     ]
                 }
             ]
